@@ -1,17 +1,144 @@
-# About Me:
-My education in Mathematics and Computer Science underpins my technical approach, driving innovation in application development and process efficiency.
+<div align="center">
 
+# `> Arman Aslanyan`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arman-aslanyan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aslanyanarman88) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21483511) 
+### Software Engineer · Full-Stack JavaScript · Test Automation
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aslanyan88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aslanyan88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aslanyan88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/Aslanyan88">
+  <img src="https://img.shields.io/badge/GitHub-Aslanyan88-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/arman-aslanyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Arman%20Aslanyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aslanyanarman88@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aslanyan88&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<table>
+<tr>
+<td valign="top">
+<pre>
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#/,*/%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,*,**,,.,,,..,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,*,,*,,,*,,*,.,,,..,@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/**,,,,.,,,,,,,,.,.... @@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*,,*#####//(#####((/*, .@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@***/#%%###########((((/.,@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@///(#%%###########((((/,.@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@(((/#%#(//*,,.*(((((/**//**@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*/%%#((((/**/(#/**.,.,**@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##(#%%##(((#(###/*/////*#@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@########(((%%#//(((//*@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(####(((((/***/((////@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%/*/(#(#(////,.,..*///*@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@&%#%@%#,*#**/(*/((((////***,/@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@&%&#&%%#&&#(%#,,/(/,,,,**//*/*,.,..*#((##%@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@&%&&#%&(%(&##%#&%%(%/**////*,,,....,****(**(#((##%##%@@@@@@@@@@@@@@@@@
+@@@@@@@&&%&%@#&#&#%#%%#%%%%%%#/%/*/////////////*((/*/(((&#%(&(&####@@@@@@@@@@@@@
+@@@@@@%%&&%#&(%%##%%#&#%%#&%%#%(((###(/((/((####%##(%(((&(&##&#&(%%((#@@@@@@@@@@
+@@@@@&#@@#(#&#&&#%#%%%&#%%#%%#&#%(#((#%%%%%%%####(/#(%##&(%%#&(%#%##%(((@@@@@@@@
+@@@@&@%&&&%&###%%(%#&%#&#%&#%&##%(%((*(%%%%%%#*#/(#(%##%/%/%(%%#%(&(##(((@@@@@@@
+@@@@&&&&&(#%#%(#&##%#&%#&%#%%#%%#%##%(#(#%%(*#((%/#(###%(%%(&##&(%##%(//((@@@@@@
+@&&%#%#&#%(%#(&#%&#%%#&%#%%#%%#%%%#%#%%(%//%%(%(%%#%%#%##%(%(&##&(%/(//#(/@@@@@@
+@&&&#&#%%#/%&//%#%%#%%#%%#%%##%%#%%#%%(%%(%((&##&##%#%##&(%#%%(&(%/////((@@@@@@@
+&%%&#%%&%(%/(#/(#%(%#&##&%#%%#%%#%%#%%%&##%((%(#%#%##%(%##&(%(%##(#/##//#%@@@@@@
+@%%&%(&#%%%(*/((#%###%%#%%#%%#%%#%%%&##((&#/%%#%%#%(%##%(%##%(%(##/(%*#/((@@@@@@
+#&#%%(&#&#((#*/(#%#%%#%%%%#%%#%%#%%#%##(#&((&##%##%#%#%%#%(%(%(%%#((/((/#*#@@@@@
+%%%&#%&(&%((//(/##%#%#%%%%##%#%%#%%##%##%%((%#%&#%%#%#%#######%(//,(/#/(#*(@@@@@
+</pre>
+</td>
+<td valign="top">
+<pre>
+┌──────────────────────────────────────────────┐
+│  ARMAN ASLANYAN                              │
+│  Software Engineer                          │
+│  Full-Stack JavaScript & Test Automation     │
+├──────────────────────────────────────────────┤
+│  📍 Location      Yerevan, Armenia           │
+│  💼 Experience    3+ years                   │
+├──────────────────────────────────────────────┤
+│  ⭐ HIGHLIGHTS                               │
+│  • 150M+ records/week data pipelines         │
+│  • Coordinated a 6-engineer team             │
+│  • AI-assisted engineering workflows        │
+├──────────────────────────────────────────────┤
+│  </> LANGUAGES                               │
+│  JavaScript · TypeScript · PHP · SQL         │
+│                                              │
+│  🎨 FRONTEND                                 │
+│  React · Next.js · Redux Toolkit · Zustand   │
+│  HTML5 · CSS3 · Tailwind · Chakra UI         │
+│                                              │
+│  ⚙ BACKEND                                   │
+│  Node.js · Express.js · REST APIs            │
+│  WebSocket · OAuth 2.0                       │
+│                                              │
+│  🧪 TESTING                                  │
+│  Playwright · Cypress · WebdriverIO          │
+│  Puppeteer · JMeter · Mocha                  │
+│                                              │
+│  🤖 AUTOMATION                               │
+│  UiPath · Power Automate                     │
+│                                              │
+│  🗄 DATA & INFRA                             │
+│  MySQL · MongoDB · Grafana · Prometheus      │
+│  Kubernetes · OpenShift                      │
+│                                              │
+│  🛠 DEV TOOLS                                │
+│  Git · GitHub · GitLab · Webpack · Vite      │
+├──────────────────────────────────────────────┤
+│  🎓 BSc, Mathematics & Computer Science      │
+│     Expected 2027                            │
+└──────────────────────────────────────────────┘
+</pre>
+</td>
+</tr>
+</table>
+
+---
+
+## `whoami`
+
+Software engineer with **3+ years of experience** across full-stack JavaScript development, test automation, RPA, and large-scale data pipelines. I build production applications with **React, Next.js, and Node.js**, create reliable automated test suites, and use AI-assisted workflows to deliver faster while maintaining code quality.
+
+```javascript
+const arman = {
+  role: "Software Engineer",
+  location: "Yerevan, Armenia",
+  focus: [
+    "Full-Stack Development",
+    "Test Automation",
+    "Business Automation",
+    "Scalable Data Pipelines",
+    "AI-Assisted Engineering"
+  ],
+  principle: "Build. Automate. Improve."
+};
+```
+
+## `current_focus`
+
+- Building reliable end-to-end and UI automation
+- Developing scalable full-stack applications
+- Automating repetitive business workflows
+- Exploring practical AI engineering solutions
+
+## `connect`
+
+```text
+GitHub    github.com/Aslanyan88
+LinkedIn  linkedin.com/in/arman-aslanyan
+Email     aslanyanarman88@gmail.com
+```
+
+<div align="center">
+
+`$ Thanks for visiting my profile — let's build something useful.`
+
+</div>
