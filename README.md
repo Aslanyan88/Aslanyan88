@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./photo_2026-07-24_14-53-40.jpg" width="180" alt="Arman Aslanyan" />
+
 # `> Arman Aslanyan`
 
 ### Software Engineer · Full-Stack JavaScript · Test Automation
+
+📍 Yerevan, Armenia &nbsp;·&nbsp; 💼 3+ years of experience
 
 <a href="https://github.com/Aslanyan88">
   <img src="https://img.shields.io/badge/GitHub-Aslanyan88-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -18,94 +22,17 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top">
-<pre>
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#/,*/%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,*,**,,.,,,..,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#,*,,*,,,*,,*,.,,,..,@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/**,,,,.,,,,,,,,.,.... @@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*,,*#####//(#####((/*, .@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@***/#%%###########((((/.,@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@///(#%%###########((((/,.@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@(((/#%#(//*,,.*(((((/**//**@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*/%%#((((/**/(#/**.,.,**@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##(#%%##(((#(###/*/////*#@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@########(((%%#//(((//*@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(####(((((/***/((////@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%/*/(#(#(////,.,..*///*@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@&%#%@%#,*#**/(*/((((////***,/@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@&%&#&%%#&&#(%#,,/(/,,,,**//*/*,.,..*#((##%@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@&%&&#%&(%(&##%#&%%(%/**////*,,,....,****(**(#((##%##%@@@@@@@@@@@@@@@@@
-@@@@@@@&&%&%@#&#&#%#%%#%%%%%%#/%/*/////////////*((/*/(((&#%(&(&####@@@@@@@@@@@@@
-@@@@@@%%&&%#&(%%##%%#&#%%#&%%#%(((###(/((/((####%##(%(((&(&##&#&(%%((#@@@@@@@@@@
-@@@@@&#@@#(#&#&&#%#%%%&#%%#%%#&#%(#((#%%%%%%%####(/#(%##&(%%#&(%#%##%(((@@@@@@@@
-@@@@&@%&&&%&###%%(%#&%#&#%&#%&##%(%((*(%%%%%%#*#/(#(%##%/%/%(%%#%(&(##(((@@@@@@@
-@@@@&&&&&(#%#%(#&##%#&%#&%#%%#%%#%##%(#(#%%(*#((%/#(###%(%%(&##&(%##%(//((@@@@@@
-@&&%#%#&#%(%#(&#%&#%%#&%#%%#%%#%%%#%#%%(%//%%(%(%%#%%#%##%(%(&##&(%/(//#(/@@@@@@
-@&&&#&#%%#/%&//%#%%#%%#%%#%%##%%#%%#%%(%%(%((&##&##%#%##&(%#%%(&(%/////((@@@@@@@
-&%%&#%%&%(%/(#/(#%(%#&##&%#%%#%%#%%#%%%&##%((%(#%#%##%(%##&(%(%##(#/##//#%@@@@@@
-@%%&%(&#%%%(*/((#%###%%#%%#%%#%%#%%%&##((&#/%%#%%#%(%##%(%##%(%(##/(%*#/((@@@@@@
-#&#%%(&#&#((#*/(#%#%%#%%%%#%%#%%#%%#%##(#&((&##%##%#%#%%#%(%(%(%%#((/((/#*#@@@@@
-%%%&#%&(&%((//(/##%#%#%%%%##%#%%#%%##%##%%((%#%&#%%#%#%#######%(//,(/#/(#*(@@@@@
-</pre>
-</td>
-<td valign="top">
-<pre>
-┌──────────────────────────────────────────────┐
-│  ARMAN ASLANYAN                              │
-│  Software Engineer                          │
-│  Full-Stack JavaScript & Test Automation     │
-├──────────────────────────────────────────────┤
-│  📍 Location      Yerevan, Armenia           │
-│  💼 Experience    3+ years                   │
-├──────────────────────────────────────────────┤
-│  ⭐ HIGHLIGHTS                               │
-│  • 150M+ records/week data pipelines         │
-│  • Coordinated a 6-engineer team             │
-│  • AI-assisted engineering workflows        │
-├──────────────────────────────────────────────┤
-│  </> LANGUAGES                               │
-│  JavaScript · TypeScript · PHP · SQL         │
-│                                              │
-│  🎨 FRONTEND                                 │
-│  React · Next.js · Redux Toolkit · Zustand   │
-│  HTML5 · CSS3 · Tailwind · Chakra UI         │
-│                                              │
-│  ⚙ BACKEND                                   │
-│  Node.js · Express.js · REST APIs            │
-│  WebSocket · OAuth 2.0                       │
-│                                              │
-│  🧪 TESTING                                  │
-│  Playwright · Cypress · WebdriverIO          │
-│  Puppeteer · JMeter · Mocha                  │
-│                                              │
-│  🤖 AUTOMATION                               │
-│  UiPath · Power Automate                     │
-│                                              │
-│  🗄 DATA & INFRA                             │
-│  MySQL · MongoDB · Grafana · Prometheus      │
-│  Kubernetes · OpenShift                      │
-│                                              │
-│  🛠 DEV TOOLS                                │
-│  Git · GitHub · GitLab · Webpack · Vite      │
-├──────────────────────────────────────────────┤
-│  🎓 BSc, Mathematics & Computer Science      │
-│     Expected 2027                            │
-└──────────────────────────────────────────────┘
-</pre>
-</td>
-</tr>
-</table>
-
----
-
 ## `whoami`
 
-Software engineer with **3+ years of experience** across full-stack JavaScript development, test automation, RPA, and large-scale data pipelines. I build production applications with **React, Next.js, and Node.js**, create reliable automated test suites, and use AI-assisted workflows to deliver faster while maintaining code quality.
+Software engineer with **3+ years of experience** across full-stack
+JavaScript development, test automation, RPA, and large-scale data
+pipelines.
+
+I build production applications with **React, Next.js, and Node.js**,
+create **Playwright and Cypress** suites that gate releases, and use
+AI-assisted workflows to deliver faster while maintaining code quality.
+I am comfortable owning features end to end—from code and tests to
+production monitoring.
 
 ```javascript
 const arman = {
@@ -116,11 +43,102 @@ const arman = {
     "Test Automation",
     "Business Automation",
     "Scalable Data Pipelines",
-    "AI-Assisted Engineering"
+    "AI-Assisted Engineering",
   ],
-  principle: "Build. Automate. Improve."
+  principle: "Build. Automate. Improve.",
 };
 ```
+
+## `highlights`
+
+- ⚡ Built data pipelines processing **150M+ records per week**
+- 👥 Coordinated a **6-engineer team**
+- 📣 Delivered automation solutions for **20+ clients**
+- 🤖 Use **Claude Code and Codex** across development and testing
+- 🎓 BSc in Mathematics & Computer Science — expected 2027
+
+## `experience`
+
+**EPAM Systems** · Test Automation Engineer<br />
+`Mar 2025 – Present`
+
+- Build Playwright and Cypress suites covering critical user flows
+- Create UiPath workflows for recurring business processes
+- Monitor production with Grafana and Prometheus on Kubernetes/OpenShift
+
+**ITMedia** · Full-Stack Software Engineer, Contract<br />
+`Feb 2025 – Jan 2026`
+
+- Shipped client-facing React, Next.js, and Node.js applications
+- Took features from design through testing and deployment
+
+**MFMSoft** · Data Automation Engineering Manager<br />
+`Jul 2023 – Feb 2025`
+
+- Coordinated a six-engineer automation and data-pipeline team
+- Designed processing systems handling 150M+ records each week
+- Added automated validation and alerting across pipeline stages
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+
+<br />
+
+- **ArevMedia** · Technical Team Lead, Contract
+- **Learning Mission Armenia** · Frontend Instructor, Part-time
+- **Develandoo** · Junior Frontend Developer
+
+</details>
+
+## `tech_stack`
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php)
+![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square&logo=postgresql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-181717?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwindcss)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-181717?style=flat-square&logo=chakraui)
+![Radix UI](https://img.shields.io/badge/Radix_UI-181717?style=flat-square&logo=radixui)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-181717?style=flat-square&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb)
+![WebSocket](https://img.shields.io/badge/WebSocket-181717?style=flat-square&logo=socketdotio)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-181717?style=flat-square&logo=auth0)
+
+### Testing & Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-181717?style=flat-square&logo=playwright)
+![Cypress](https://img.shields.io/badge/Cypress-181717?style=flat-square&logo=cypress)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-181717?style=flat-square&logo=webdriverio)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-181717?style=flat-square&logo=puppeteer)
+![JMeter](https://img.shields.io/badge/JMeter-181717?style=flat-square&logo=apachejmeter)
+![Mocha](https://img.shields.io/badge/Mocha-181717?style=flat-square&logo=mocha)
+![UiPath](https://img.shields.io/badge/UiPath-181717?style=flat-square&logo=uipath)
+![Power Automate](https://img.shields.io/badge/Power_Automate-181717?style=flat-square&logo=powerautomate)
+
+### Infrastructure & Tools
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes)
+![OpenShift](https://img.shields.io/badge/OpenShift-181717?style=flat-square&logo=redhatopenshift)
+![Grafana](https://img.shields.io/badge/Grafana-181717?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-181717?style=flat-square&logo=prometheus)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab)
+![Webpack](https://img.shields.io/badge/Webpack-181717?style=flat-square&logo=webpack)
+![Vite](https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite)
 
 ## `current_focus`
 
@@ -131,11 +149,11 @@ const arman = {
 
 ## `connect`
 
-```text
-GitHub    github.com/Aslanyan88
-LinkedIn  linkedin.com/in/arman-aslanyan
-Email     aslanyanarman88@gmail.com
-```
+- GitHub: [github.com/Aslanyan88](https://github.com/Aslanyan88)
+- LinkedIn: [linkedin.com/in/arman-aslanyan](https://www.linkedin.com/in/arman-aslanyan/)
+- Email: [aslanyanarman88@gmail.com](mailto:aslanyanarman88@gmail.com)
+
+---
 
 <div align="center">
 
