@@ -2,9 +2,9 @@
 
 # `> Arman Aslanyan`
 
-### Software Engineer · Full-Stack JavaScript · Test Automation
+### AI Software Engineer · Full-Stack JavaScript · Test Automation
 
-📍 Yerevan, Armenia &nbsp;·&nbsp; 💼 3+ years of experience
+📍 Yerevan, Armenia &nbsp;·&nbsp; 
 
 <pre>
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -89,20 +89,20 @@ const arman = {
 
 ## `experience`
 
-**EPAM Systems** · Test Automation Engineer<br />
+**Test Automation Engineer**<br />
 `Mar 2025 – Present`
 
 - Build Playwright and Cypress suites covering critical user flows
 - Create UiPath workflows for recurring business processes
 - Monitor production with Grafana and Prometheus on Kubernetes/OpenShift
 
-**ITMedia** · Full-Stack Software Engineer, Contract<br />
+**Full-Stack Software Engineer · Contract**<br />
 `Feb 2025 – Jan 2026`
 
 - Shipped client-facing React, Next.js, and Node.js applications
 - Took features from design through testing and deployment
 
-**MFMSoft** · Data Automation Engineering Manager<br />
+**Data Automation Engineering Manager**<br />
 `Jul 2023 – Feb 2025`
 
 - Coordinated a six-engineer automation and data-pipeline team
@@ -114,9 +114,9 @@ const arman = {
 
 <br />
 
-- **ArevMedia** · Technical Team Lead, Contract
-- **Learning Mission Armenia** · Frontend Instructor, Part-time
-- **Develandoo** · Junior Frontend Developer
+- Technical Team Lead · Contract
+- Frontend Instructor · Part-time
+- Junior Frontend Developer
 
 </details>
 
