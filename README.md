@@ -87,39 +87,6 @@ const arman = {
 - 🤖 Use **Claude Code and Codex** across development and testing
 - 🎓 BSc in Mathematics & Computer Science — expected 2027
 
-## `experience`
-
-**Test Automation Engineer**<br />
-`Mar 2025 – Present`
-
-- Build Playwright and Cypress suites covering critical user flows
-- Create UiPath workflows for recurring business processes
-- Monitor production with Grafana and Prometheus on Kubernetes/OpenShift
-
-**Full-Stack Software Engineer · Contract**<br />
-`Feb 2025 – Jan 2026`
-
-- Shipped client-facing React, Next.js, and Node.js applications
-- Took features from design through testing and deployment
-
-**Data Automation Engineering Manager**<br />
-`Jul 2023 – Feb 2025`
-
-- Coordinated a six-engineer automation and data-pipeline team
-- Designed processing systems handling 150M+ records each week
-- Added automated validation and alerting across pipeline stages
-
-<details>
-<summary><strong>Earlier experience</strong></summary>
-
-<br />
-
-- Technical Team Lead · Contract
-- Frontend Instructor · Part-time
-- Junior Frontend Developer
-
-</details>
-
 ## `tech_stack`
 
 ### Languages
