@@ -4,7 +4,7 @@
 
 ### AI Software Engineer · Full-Stack JavaScript · Test Automation
 
-📍 Yerevan, Armenia &nbsp;·&nbsp; 
+📍 Yerevan, Armenia
 
 <pre>
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
